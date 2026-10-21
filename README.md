@@ -25,12 +25,22 @@ software that works on the user's own machine.
 
 ## Featured work
 
+<a href="https://github.com/fouadcyper/tangarine">
+  <img src="./assets/tangarine-project-cover.webp" width="100%" alt="Tangarine — Quick Convert for GNOME Wayland" />
+</a>
+
+<div align="center">
+<h3><a href="https://github.com/fouadcyper/tangarine">Tangarine</a></h3>
+<p>Native radial file conversion for Kali Linux, GNOME, and Wayland.</p>
+<p><code>Python</code> <code>GJS</code> <code>GTK4</code> <code>libadwaita</code></p>
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/tangarine">Tangarine</a></h3>
-<p>A native radial file converter for Kali Linux, GNOME, and Wayland—with smart image, media, PDF, archive, and Android bundle actions.</p>
-<p><code>Python</code> <code>GJS</code> <code>GTK4</code> <code>libadwaita</code></p>
+<h3><a href="https://github.com/fouadcyper/fouad-cybershield">Fouad CyberShield</a></h3>
+<p>An Arabic cybersecurity services website for authorized testing, web protection, incident response, and security awareness.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Cloudflare</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/fouadcyper/fouad-ai-cli">Fouad AI CLI</a></h3>
