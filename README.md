@@ -1,55 +1,97 @@
 <div align="center">
 
-# Fouad Zulof
+<img src="./assets/profile-banner.svg" width="100%" alt="Fouad Zulof — Local AI, Linux and developer tools" />
 
-### Local AI · Linux · Developer Tools · Open Source
+<br />
 
-<p>
-  <a href="https://github.com/fouadcyper"><img src="https://img.shields.io/badge/GitHub-fouadcyper-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/fouadcyper?tab=repositories"><img src="https://img.shields.io/badge/Projects-Open%20Source-22d3ee?style=for-the-badge" alt="Projects" /></a>
-  <a href="https://github.com/fouadcyper/fouad-ai-cli"><img src="https://img.shields.io/badge/Focus-Local%20AI-a78bfa?style=for-the-badge" alt="Local AI" /></a>
-</p>
+<a href="https://github.com/fouadcyper?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-22d3ee?style=for-the-badge&labelColor=0b0f19" alt="Open source projects" /></a>
+<a href="https://github.com/fouadcyper/tangarine"><img src="https://img.shields.io/badge/GNOME%20%2B%20WAYLAND-a78bfa?style=for-the-badge&labelColor=0b0f19" alt="GNOME and Wayland" /></a>
+<a href="https://github.com/fouadcyper/fouad-ai-cli"><img src="https://img.shields.io/badge/LOCAL--FIRST%20AI-34d399?style=for-the-badge&labelColor=0b0f19" alt="Local-first AI" /></a>
 
-<p><em>Building practical tools that bring capable AI closer to the developer.</em></p>
+<br /><br />
+
+**I build focused software that keeps capable tools close to the user.**
+
+Local AI products · Terminal agents · Linux desktop apps · Developer tooling
 
 </div>
 
-## About
+## What I build
 
-I build local-first AI products, terminal agents, Linux desktop applications, and focused developer tools. My work combines practical automation with clear permission boundaries, polished interfaces, and a strong preference for software that can run on the user's own machine.
+I turn practical ideas into tools people can actually run. My work sits at the
+intersection of **local AI**, **Linux**, and **developer experience**—with clear
+permission boundaries, thoughtful interfaces, and a strong preference for
+software that works on the user's own machine.
 
 ## Featured work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Fouad AI CLI](https://github.com/fouadcyper/fouad-ai-cli) | AI coding workspace for the terminal | TypeScript · React · Local models |
-| [Fouad Coder Agent](https://github.com/fouadcyper/fouad-coder-agent) | Keyboard-first coding agent | Python · Textual · Ollama |
-| [Tangarine](https://github.com/fouadcyper/tangarine) | Native radial file converter for GNOME Wayland | Python · GJS · GTK4/libadwaita |
-| [Fouad CLI](https://github.com/fouadcyper/fouad-cli) | Cross-platform command-line media utility | Node.js · JavaScript |
-| [AI Trading Agent](https://github.com/fouadcyper/fouad-ai-trading-agent) | Local market intelligence desktop app | Python · PySide6 · Binance data |
-| [Zoey Kali Agent](https://github.com/fouadcyper/zoey-kali-agent) | Arabic voice assistant for Kali Linux | Electron · Flask · Whisper · Piper |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/tangarine">Tangarine</a></h3>
+<p>A native radial file converter for Kali Linux, GNOME, and Wayland—with smart image, media, PDF, archive, and Android bundle actions.</p>
+<p><code>Python</code> <code>GJS</code> <code>GTK4</code> <code>libadwaita</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/fouad-ai-cli">Fouad AI CLI</a></h3>
+<p>A privacy-first bilingual AI coding workspace for local models, providers, plugins, skills, and secure account linking.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Local AI</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/fouad-coder-agent">Fouad Coder Agent</a></h3>
+<p>A keyboard-first terminal coding agent with project tools, persistent sessions, and provider health monitoring.</p>
+<p><code>Python</code> <code>Textual</code> <code>Ollama</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/zoey-kali-agent">Zoey Kali Agent</a></h3>
+<p>An Arabic voice-focused desktop AI companion for Kali Linux with local capture, transcription, and assistant workflows.</p>
+<p><code>TypeScript</code> <code>Electron</code> <code>Whisper</code> <code>Piper</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/fouad-ai-trading-agent">AI Trading Agent</a></h3>
+<p>A local-AI cryptocurrency market intelligence desktop app powered by public market data and local model servers.</p>
+<p><code>Python</code> <code>PySide6</code> <code>Binance data</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/fouadcyper/fouad-cli">Fouad CLI</a></h3>
+<p>A cross-platform command-line media utility for downloading supported video, image, and audio content.</p>
+<p><code>Node.js</code> <code>JavaScript</code> <code>CLI</code></p>
+</td>
+</tr>
+</table>
 
-## Current interests
+## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Local%20Models-111827?style=flat-square&logo=ollama&logoColor=22d3ee" alt="Local models" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=facc15" alt="Linux" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Arabic%20UX-111827?style=flat-square&logoColor=22d3ee" alt="Arabic UX" />
+  <img src="https://img.shields.io/badge/Python-0b0f19?style=flat-square&logo=python&logoColor=60a5fa" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0f19?style=flat-square&logo=typescript&logoColor=60a5fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0b0f19?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0b0f19?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
+  <img src="https://img.shields.io/badge/Linux-0b0f19?style=flat-square&logo=linux&logoColor=facc15" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNOME-0b0f19?style=flat-square&logo=gnome&logoColor=a78bfa" alt="GNOME" />
+  <img src="https://img.shields.io/badge/Ollama-0b0f19?style=flat-square&logo=ollama&logoColor=ffffff" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Git-0b0f19?style=flat-square&logo=git&logoColor=f97316" alt="Git" />
 </p>
 
-## Principles
+## How I work
 
-- Local-first when privacy and control matter.
-- Explicit permissions for commands and destructive actions.
-- Documentation that helps people run the project for real.
-- Interfaces that feel calm, focused, and intentional.
+- **Local-first by default** when privacy, speed, and user control matter.
+- **Explicit permissions** around commands, credentials, and destructive actions.
+- **Real deliverables** with installation paths, documentation, and honest testing boundaries.
+- **Calm interfaces** that feel focused, intentional, and native to their platform.
 
 <div align="center">
 
 <br />
+
+<a href="https://github.com/fouadcyper?tab=repositories"><strong>Explore all projects →</strong></a>
+
+<br /><br />
+
 <sub>Open to thoughtful collaboration on local AI, Linux, and developer tooling.</sub>
 
 </div>
