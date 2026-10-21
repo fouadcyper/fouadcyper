@@ -24,6 +24,7 @@ I build local-first AI products, terminal agents, Linux desktop applications, an
 | --- | --- | --- |
 | [Fouad AI CLI](https://github.com/fouadcyper/fouad-ai-cli) | AI coding workspace for the terminal | TypeScript · React · Local models |
 | [Fouad Coder Agent](https://github.com/fouadcyper/fouad-coder-agent) | Keyboard-first coding agent | Python · Textual · Ollama |
+| [Tangarine](https://github.com/fouadcyper/tangarine) | Native radial file converter for GNOME Wayland | Python · GJS · GTK4/libadwaita |
 | [Fouad CLI](https://github.com/fouadcyper/fouad-cli) | Cross-platform command-line media utility | Node.js · JavaScript |
 | [AI Trading Agent](https://github.com/fouadcyper/fouad-ai-trading-agent) | Local market intelligence desktop app | Python · PySide6 · Binance data |
 | [Zoey Kali Agent](https://github.com/fouadcyper/zoey-kali-agent) | Arabic voice assistant for Kali Linux | Electron · Flask · Whisper · Piper |
