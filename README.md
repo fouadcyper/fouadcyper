@@ -30,7 +30,7 @@ software that works on the user's own machine.
 </a>
 
 <div align="center">
-<h3><a href="https://github.com/fouadcyper/tangarine">Tangarine</a></h3>
+<h3><a href="https://github.com/fouadcyper/tangarine"><img src="./assets/project-icons/tangarine.webp" width="46" alt="Tangarine icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/tangarine">Tangarine</a></h3>
 <p>Native radial file conversion for Kali Linux, GNOME, and Wayland.</p>
 <p><code>Python</code> <code>GJS</code> <code>GTK4</code> <code>libadwaita</code></p>
 </div>
@@ -38,36 +38,36 @@ software that works on the user's own machine.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/fouad-cybershield">Fouad CyberShield</a></h3>
+<h3><a href="https://github.com/fouadcyper/fouad-cybershield"><img src="./assets/project-icons/fouad-cybershield.webp" width="42" alt="Fouad CyberShield icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/fouad-cybershield">Fouad CyberShield</a></h3>
 <p>An Arabic cybersecurity services website for authorized testing, web protection, incident response, and security awareness.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Cloudflare</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/fouad-ai-cli">Fouad AI CLI</a></h3>
+<h3><a href="https://github.com/fouadcyper/fouad-ai-cli"><img src="./assets/project-icons/fouad-ai-cli.webp" width="42" alt="Fouad AI CLI icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/fouad-ai-cli">Fouad AI CLI</a></h3>
 <p>A privacy-first bilingual AI coding workspace for local models, providers, plugins, skills, and secure account linking.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Local AI</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/fouad-coder-agent">Fouad Coder Agent</a></h3>
+<h3><a href="https://github.com/fouadcyper/fouad-coder-agent"><img src="./assets/project-icons/fouad-coder-agent.webp" width="42" alt="Fouad Coder Agent icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/fouad-coder-agent">Fouad Coder Agent</a></h3>
 <p>A keyboard-first terminal coding agent with project tools, persistent sessions, and provider health monitoring.</p>
 <p><code>Python</code> <code>Textual</code> <code>Ollama</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/zoey-kali-agent">Zoey Kali Agent</a></h3>
+<h3><a href="https://github.com/fouadcyper/zoey-kali-agent"><img src="./assets/project-icons/zoey-kali-agent.webp" width="42" alt="Zoey Kali Agent icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/zoey-kali-agent">Zoey Kali Agent</a></h3>
 <p>An Arabic voice-focused desktop AI companion for Kali Linux with local capture, transcription, and assistant workflows.</p>
 <p><code>TypeScript</code> <code>Electron</code> <code>Whisper</code> <code>Piper</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/fouad-ai-trading-agent">AI Trading Agent</a></h3>
+<h3><a href="https://github.com/fouadcyper/fouad-ai-trading-agent"><img src="./assets/project-icons/ai-trading-agent.webp" width="42" alt="AI Trading Agent icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/fouad-ai-trading-agent">AI Trading Agent</a></h3>
 <p>A local-AI cryptocurrency market intelligence desktop app powered by public market data and local model servers.</p>
 <p><code>Python</code> <code>PySide6</code> <code>Binance data</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/fouadcyper/fouad-cli">Fouad CLI</a></h3>
+<h3><a href="https://github.com/fouadcyper/fouad-cli"><img src="./assets/project-icons/fouad-cli.webp" width="42" alt="Fouad CLI icon" /></a>&nbsp; <a href="https://github.com/fouadcyper/fouad-cli">Fouad CLI</a></h3>
 <p>A cross-platform command-line media utility for downloading supported video, image, and audio content.</p>
 <p><code>Node.js</code> <code>JavaScript</code> <code>CLI</code></p>
 </td>
