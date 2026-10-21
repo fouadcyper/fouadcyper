@@ -33,7 +33,7 @@
   <rect width="1200" height="320" rx="24" fill="url(#grid)" />
   <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#ffffff" stroke-opacity=".08" />
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif">
+  <g font-family="Geist, ui-sans-serif, system-ui, -apple-system, sans-serif">
     <rect x="70" y="61" width="52" height="5" rx="2.5" fill="url(#accent)" />
     <text x="70" y="132" fill="#f8fafc" font-size="56" font-weight="750" letter-spacing="1">FOUAD ZULOF</text>
     <text x="73" y="174" fill="#b9c3d6" font-size="21" font-weight="450" letter-spacing=".8">LOCAL AI · LINUX · DEVELOPER TOOLS</text>
